@@ -1,5 +1,6 @@
 # 忽略的文件
 test.py
+test.txt
 
 
 # Byte-compiled / optimized / DLL files
